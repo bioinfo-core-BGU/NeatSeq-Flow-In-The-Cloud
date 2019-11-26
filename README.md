@@ -37,7 +37,7 @@
     ```Bash
        qhost
     ```
-    to view the active Nodes, repeat this steps 9 and 10 if no active Nodes available
+    to view the active Nodes, repeat steps 9 and 10 if no active Nodes available
 11. To stop the cluster:
    ```Bash
       pcluster stop mycluster
