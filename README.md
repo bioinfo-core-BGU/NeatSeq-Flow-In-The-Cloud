@@ -36,4 +36,4 @@ To use NeatSeq-Flow on Amazon cloud using AWS ParallelCluster you will need:
 10. To stop the cluster:
    ```Bash
       pcluster stop mycluster
-    ```
+   ```
