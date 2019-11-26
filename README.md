@@ -33,7 +33,12 @@
     ```Bash
       pcluster start mycluster
     ```
-10. To stop the cluster:
+10. Wait for at least one working Node is active, type:
+    ```Bash
+       qhost
+    ```
+    to view the active Nodes, repeat this steps 9 and 10 if no active Nodes available
+11. To stop the cluster:
    ```Bash
       pcluster stop mycluster
    ```
