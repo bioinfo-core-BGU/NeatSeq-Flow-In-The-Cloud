@@ -8,7 +8,7 @@
 
 **Note:** For now we have tested NeatSeq-Flow on Amazon cloud (AWS ParallelCluster) using the SGE HPC scheduler. 
 
-To use NeatSeq-Flow on Amazon cloud using AWS ParallelCluster you will need:
+### To use NeatSeq-Flow on Amazon cloud using AWS ParallelCluster you will need:
 1. Set-up a AWS ParallelCluster and choose a SGE HPC scheduler. Follow the information [here](https://github.com/aws/aws-parallelcluster) or [here](https://public-wiki.iucc.ac.il/index.php/How_to_create_AWS_ParallelCluster_with_Slurm_scheduler) and change slurm to sge
 2. SSH to your Master Node
 3. Go (cd) to your shared storage 
